@@ -17,6 +17,7 @@
             <a href="{{ route('laporan.index') }}">Daftar Laporan</a>
             <a href="{{ route('laporan.form') }}">Form Pelaporan</a>
             <a href="{{ route('laporan.confirmation') }}">Konfirmasi</a>
+            <a href="{{ route('jalansafe.index') }}">Tubes JalanSafe</a>
         </nav>
     </header>
 
